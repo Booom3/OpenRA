@@ -290,6 +290,8 @@
     <Compile Include="Traits\Buildings\RepairableBuilding.cs" />
     <Compile Include="Traits\Buildings\RepairsUnits.cs" />
     <Compile Include="Traits\Buildings\Reservable.cs" />
+    <Compile Include="Traits\DamageOverTime.cs" />
+    <Compile Include="Traits\BurnsVisualOnly.cs" />
     <Compile Include="Traits\Burns.cs" />
     <Compile Include="Traits\ChangesTerrain.cs" />
     <Compile Include="Traits\Health.cs" />
